@@ -22,7 +22,13 @@ IDE Agnostic Conventions
 Additional Coding Conventions and Information
 ---------------------------------------------
 
-* TODO
+*Project License*
+The AeroGear project is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+*Source Code Copyright Headers*
+All new and modified files in AeroGear source control should use the copyright, and license headers as described in the wiki page [AeroGear Licensing And Copyright](https://community.jboss.org/wiki/AeroGearLicensingAndCopyright).
+
+The Eclipse Java, JavaScript, and CSS template files should include the correct new file templates with this header.  However it is important to verify this, and adjust with other IDE's.
 
 Projects following these conventions
 ------------------------------------
